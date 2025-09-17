@@ -56,6 +56,8 @@ return(0);
 }
 ```
 **Output :**
+
+
 ![WhatsApp Image 2025-09-15 at 23 30 10_6912cb9b](https://github.com/user-attachments/assets/db2da2c7-ffbb-4c33-851d-e222af231031)
 
 
